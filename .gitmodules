@@ -1,0 +1,9 @@
+[submodule "todo-frontend"]
+	path = todo-frontend
+	url = https://github.com/celalettindemir/todo-frontend.git
+[submodule "todo-backend"]
+	path = todo-backend
+	url = https://github.com/celalettindemir/todo-backend.git
+[submodule "todo-acceptance"]
+	path = todo-acceptance
+	url = https://github.com/celalettindemir/todo-acceptance.git
